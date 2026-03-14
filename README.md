@@ -1,1 +1,1 @@
-# CPSC_368_Project
+# CPSC368-project
